@@ -1,0 +1,1 @@
+This folder contains the Jupyter Notebook files for the two image recognition models considered for the mobile app: MobileNetV2 and DenseNet201. These models were evaluated based on their accuracy, efficiency, and integration capabilities.
